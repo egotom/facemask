@@ -1,0 +1,23 @@
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!--h3>{{ .Title }}</h3-->
+        {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+        {{ $.Scratch.Add "path" .Site.BaseURL }}
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb bg-transparent p-0">
+            <li class="breadcrumb-item"><a class="text-dark" href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a></li>
+            {{ range $index, $element := split $url "/" }}
+            {{ $.Scratch.Add "path" $element }}
+            {{ if ne $element "" }}
+              <li class="breadcrumb-item"><a class="text-dark" href='{{ $.Scratch.Get "path" }}'>{{ . }}</a></li>
+            {{ $.Scratch.Add "path" "/" }}
+            {{ end }}
+            {{ end }}
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>
