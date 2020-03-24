@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://horgennc.com"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 title = "Hugo Ecommerce Site"
 theme = "hargo"
