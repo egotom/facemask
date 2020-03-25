@@ -56,8 +56,7 @@
 <script src="{{ .Site.Params.gmapAPI | absURL }}"></script>
 {{ end }}
 {{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
+{{ range .Site.Params.plugins.js}}<script src="{{ .link | absURL }}"></script>
 {{ end }}
 {{if .Site.Data.homepage.cart.enable}}
 <!-- snipcart -->
