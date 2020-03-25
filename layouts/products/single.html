@@ -25,8 +25,11 @@
           <span class="lead text-primary font-weight-medium">{{ .Params.Price }}</span>
           <s>{{ .Params.PriceBefore }}</s>
         </div>
-        <h5>Short Description</h5>
-        <p>{{ .Params.ShortDescription | markdownify }}</p>
+        <h5>Product Details</h5>
+        
+        {{ range .Params.productDetails }}
+        <p class="productDetails">{{ . | markdownify }}</p>
+        {{ end }}
         <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">

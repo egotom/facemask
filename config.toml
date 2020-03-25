@@ -27,7 +27,6 @@ disableHugoGeneratorInject = true
   link = "plugins/slick/slick.min.js"
   [[params.plugins.js]]
   link = "plugins/google-map/gmap.js"
-
   
 ############################## navigation ###############################
 [menu]
@@ -78,7 +77,6 @@ disableHugoGeneratorInject = true
   URL = "contact"
   weight = 5
 
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
@@ -93,11 +91,9 @@ mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
-# Contact Information
 mobile = "086-13671705929"
 email = "sales@email.com"
 location = "Songjiang district Shanghai, China"
-# copyright
 copyright = "Copyright &copy; 2020 [Horgen](https://horgennc.com) All Rights Reserved"
 
   # Preloader
@@ -108,7 +104,7 @@ copyright = "Copyright &copy; 2020 [Horgen](https://horgennc.com) All Rights Res
   # Product Rating
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
   [params.rating]
-  enable = true
+  enable = false
   websiteID = "444334"
   publicKey = "811cf0927332bf51f2e12f84608594ac"
 

@@ -1,7 +1,5 @@
 {{ define "main" }}
-
 {{ partial "page-title.html" . }}
-
 {{ if .Site.Data.contact.contact.enable }}
 <section class="section pt-0">
   <div class="container">
@@ -36,7 +34,7 @@
               </a>
             </div>
             <div id="collapse{{$.Scratch.Get `counter`}}" class="collapse" data-parent="#accordion">
-              <div class="card-body p-2 font-secondary text-color">{{ .content | markdownify }}</div>
+              <div class="card-body font-secondary text-color">{{ .content | markdownify }}</div>
             </div>
           </div>
           {{ end }}
