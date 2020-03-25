@@ -7,7 +7,7 @@ draft: false
 description : "Disposable Face Mask"
 
 # product Price
-price: "0.46$ / 1Pcs"
+price: "0.46$ / Piece"
 PriceBefore: ""
 # Product Details
 productDetails: 
