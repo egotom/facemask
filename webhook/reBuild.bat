@@ -1,2 +1,2 @@
-echo 'I'm bussy!'
-pause
+git pull
+hugo
