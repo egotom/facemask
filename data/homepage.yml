@@ -45,8 +45,8 @@ cart:
 
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Technology Co.,Ltd. was founded in recent years with the best technology. We have a wide varieties. The products include Protective products, Housewares, Plastic products, etc. Our products are sold well in North America Middle East, South America, Western Europe, Eastern Europe, Russian Federation..."
+  title : "About Us"
+  subtitle : "Shanghai Horgen Technology Inc. was born at 2015, is doing well on the bottles, mugs, tumblers with jointed venture factory in Zhejiang and many other well cooperated factories. We believe Business is supplying value. What we are doing is to match your needs to better resources and get orders done well and smoothly."
   materialItem:
     # material item loop
     - title : "Matcha Seeds"

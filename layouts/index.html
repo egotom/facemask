@@ -79,11 +79,11 @@
       {{ range .materialItem }}
       <div class="col-lg-3 col-md-4 col-sm-6">
         <div class="card border-0 text-center">
-          <img src="{{ .image | absURL }}" alt="material" class="card-img-top border-0">
-          <div class="card-body">
+          <!--img src="{{ .image | absURL }}" alt="material" class="card-img-top border-0"-->
+          <!--div class="card-body">
             <h4>{{ .title | markdownify }}</h4>
             <p>{{ .content | markdownify }}</p>
-          </div>
+          </div-->
         </div>
       </div>
       {{ end }}
@@ -152,7 +152,6 @@
 {{ end }}
 {{ end }}
 <!-- /promo video -->
-
 <!-- products -->
 {{ if .Site.Data.homepage.products.enable }}
 <section class="section pb-0">
