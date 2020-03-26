@@ -19,7 +19,6 @@ contact:
       - dayTime : "Friday: 9:00 – 19:00"
       - dayTime : "Saturday: 9:00 – 19:00"
       - dayTime : "sunday: 9:00 – 12:00"
-
 ####################### google map ########################
 map:
   enable: false

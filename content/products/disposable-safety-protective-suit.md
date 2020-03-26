@@ -35,7 +35,7 @@ images:
   - image: "images/products/clothing/Disposable safety medical protective clothing 4.jpg"
   - image: "images/products/clothing/Disposable safety medical protective clothing 5.jpg"
   - image: "images/products/clothing/Disposable safety medical protective clothing 1.webp"
-  - image: "images/products/clothing/Disposable safety medical protective clothing 2.webp"
+  - image: "images/products/clothing/Disposable safety medical protective clothing 2.jpg"
   - image: "images/products/clothing/Disposable safety medical protective clothing 3.webp"  
 ---
 
