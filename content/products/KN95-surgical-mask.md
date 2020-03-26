@@ -32,9 +32,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/N95/N95 respirator 3.jpg"
-  - image: "images/products/N95/N95 respirator 1.webp"
-  - image: "images/products/N95/N95 respirator 2.webp"  
+  - image: "images/products/N95/N95 respirator 13.jpg"
+  - image: "images/products/N95/N95 respirator 14.jpg"
+  - image: "images/products/N95/N95 respirator 15.jpg"  
   - image: "images/products/N95/N95 respirator 4.jpg"
   - image: "images/products/N95/N95 respirator 5.jpg"
 ---
