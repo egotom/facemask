@@ -8,7 +8,7 @@ Tags: ["mask"]
 description : "Disposable safety medical protective clothing"
 
 # product Price
-price: "14.00$ / Piece"
+price: "40.00$ / Piece"
 PriceBefore: ""
 # Product Details
 productDetails: 

@@ -8,7 +8,7 @@ Tags: ["mask"]
 description : "Disposable Safety Protective Suit"
 
 # product Price
-price: "0.46$ / Piece"
+price: "40.00$ / Piece"
 PriceBefore: ""
 # Product Details
 productDetails: 
