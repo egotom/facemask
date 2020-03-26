@@ -1,13 +1,13 @@
 ---
-title: "N95 Respirator"
-date: 2020-03-20T11:22:16+06:00
+title: "KN95 Medical Masks"
+date: 2020-03-18T11:22:16+06:00
 draft: false
 
 # meta description
-description : "N95 Respirator"
+description : "KN95 Medical Masks"
 
 # product Price
-price: "0.46$ / Piece"
+price: "3.50$ / Piece"
 PriceBefore: ""
 # Product Details
 productDetails: 
@@ -25,21 +25,20 @@ productDetails:
 
 #product ID
 productID: "1"
-
 # type must be "products"
 type: "products"
-
+weight: 1
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/N95/N95 respirator 13.jpg"
-  - image: "images/products/N95/N95 respirator 14.jpg"
-  - image: "images/products/N95/N95 respirator 15.jpg"  
+  - image: "images/products/N95/KN95 respirator.jpg"
+  - image: "images/products/N95/KN95 respirator3.jpg"
+  - image: "images/products/N95/N95 respirator 2.webp"  
   - image: "images/products/N95/N95 respirator 4.jpg"
   - image: "images/products/N95/N95 respirator 5.jpg"
 ---
 
-![alt:N95 Respirator](/images/products/N95/N95%20respirator%2012.jpg)
+![alt:KN95 Medical Masks](/images/products/N95/KN95%20respirator1.jpg)
 
 1. High Quality  
   Our factory has complete production line, can supply you high quality protective products.

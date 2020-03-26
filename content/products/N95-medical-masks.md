@@ -1,13 +1,13 @@
 ---
 title: "N95 Respirator"
-date: 2020-03-20T11:22:16+06:00
+date: 2020-03-17T11:22:16+06:00
 draft: false
 
 # meta description
 description : "N95 Respirator"
 
 # product Price
-price: "0.46$ / Piece"
+price: "3.56$ / Piece"
 PriceBefore: ""
 # Product Details
 productDetails: 
@@ -25,10 +25,9 @@ productDetails:
 
 #product ID
 productID: "1"
-
+weight: 1
 # type must be "products"
 type: "products"
-
 # product Images
 # first image will be shown in the product page
 images:

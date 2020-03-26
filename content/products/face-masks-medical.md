@@ -1,6 +1,6 @@
 ---
 title: "Face Masks Medical"
-date: 2020-03-17T11:22:16+06:00
+date: 2020-03-19T11:22:16+06:00
 draft: false
 
 # meta description
@@ -28,7 +28,7 @@ productID: "1"
 
 # type must be "products"
 type: "products"
-
+weight: 1
 # product Images
 # first image will be shown in the product page
 images:

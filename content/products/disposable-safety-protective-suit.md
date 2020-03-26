@@ -1,6 +1,6 @@
 ---
 title: "Disposable Safety Protective Suit"
-date: 2020-03-26T03:06:52+08:00
+date: 2020-03-20T03:06:52+08:00
 draft: false
 Tags: ["mask"]
 
@@ -28,7 +28,7 @@ productID: "1"
 
 # type must be "products"
 type: "products"
-
+weight: 1
 # product Images
 # first image will be shown in the product page
 images:
