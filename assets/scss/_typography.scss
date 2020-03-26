@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap');
 */
 body {
-  line-height: 1;
+  line-height: 1.2;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
   font-size: 17px;
@@ -13,7 +13,7 @@ p, .paragraph {
   font-weight: 400;
   color: $text-color;
   font-size: 15px;
-  line-height: 1;
+  line-height: 1.2;
   font-family: $primary-font;
 }
 
